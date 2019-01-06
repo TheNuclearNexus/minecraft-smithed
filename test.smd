@@ -1,4 +1,6 @@
-https://i.imgur.com/ZgCeWZ3.png
-name
-desc
-creator
+{
+  "name": "name",
+  "creator": "creator",
+  "desc": "description",
+  "image": "https://i.imgur.com/ZgCeWZ3.png"
+}
